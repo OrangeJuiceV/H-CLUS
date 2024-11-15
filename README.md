@@ -44,14 +44,14 @@ agglomerativo, attraverso richieste Client
 ### 1.2 Gruppo di lavoro
 Il progetto è sviluppato dagli studenti:
 - **Leoluca Castellano**
-    - MATRICOLA: 776053
-    - E-MAIL ISTUZIONALE: l.castellano18@studenti.uniba.it
+    - MATRICOLA: ******
+    - E-MAIL ISTUZIONALE: ******@studenti.uniba.it
 - **Giuseppe Pio Fallucca**
-    - MATRICOLA: 782111
-    - E-MAIL ISTUZIONALE: g.fallucca@studenti.uniba.it
+    - MATRICOLA: ******
+    - E-MAIL ISTUZIONALE: ******@studenti.uniba.it
 - **Claudio Di Pietro**
-    - MATRICOLA: 727701
-    - E-MAIL ISTUZIONALE: c.dipietro4@studenti.uniba.it
+    - MATRICOLA: ******
+    - E-MAIL ISTUZIONALE: ******@studenti.uniba.it
 
 ---
 ---
